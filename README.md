@@ -204,8 +204,8 @@ Traté la calidad de datos como una preocupación de primer nivel — no como al
 
 ## 👤 Autor
 
-**Gerardo Vázquez Cruz** — Analista de datos en formación, enfocado en convertir datos desordenados en decisiones claras de negocio.
+**Gerardo Vázquez Cruz** — Analista de datos, enfocado en convertir datos desordenados en decisiones claras de negocio.
 
 - 🔗 [LinkedIn](https://linkedin.com/in/gerardo-vazquez-dataanalyst)
 - 🐙 [GitHub](https://github.com/gerardovazquez-DataAnalyst)
-- 📍 Monterrey, México
+- 📍 Altamira, México
